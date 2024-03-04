@@ -1,13 +1,9 @@
 # `School_Management_System`
-School Management System C graduation project At NTI(LEVEL 1 - C and Embedded C )
-This project is focused on student record services in 
-school, so it is named “School Management System”.
-Here, you can create a new student, update 
-information of an existing student, view and manage 
-scores, check the details of an existing student, 
-remove existing student and view student’ list.
-The function we are looking for:
+*  School Management System C graduation project At NTI (LEVEL 1 - C and Embedded C )
+* This project is focused on `student record services in school, so it is named “School Management System”.
+* Here, you can do many methods like :create a new student, update information of an existing student, view and manage scores, check the details of an existing student, remove existing student and view student’s list.
 
+# `The function we are looking for:`
 1- `MAIN_MENU ()` – this function displays the 
 welcome screen and targeted activates.
 
