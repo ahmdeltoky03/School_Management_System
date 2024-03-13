@@ -7,24 +7,24 @@
 1- `MAIN_MENU ()` – this function displays the 
 welcome screen and targeted activates.
 
-2- `NEW_STUDENT()` – this function creates a 
+2- **NEW_STUDENT()** – this function creates a 
 new student account. it asks about details of the 
 student such as name, date of birth, ID, address 
 and phone number.
 
-3- `DELETE_STUDENT()` – this function is for 
+3- **DELETE_STUDENT()** – this function is for 
 deleting a customer account.
 
-4- `STUDENT_LIST()` –this function, you can view 
+4- **STUDENT_LIST()** –this function, you can view 
 the students information such as name, date of 
 birth, ID, address and phone number in table 
 form (alphabetically ascending).
 
-5- `STUDENT_EDIT()`– this function has been used 
+5- **STUDENT_EDIT()**– this function has been used 
 for updating a particular student account.
 
-6- `RANK_STUDENT()` –this function can sort all 
+6- **RANK_STUDENT()** –this function can sort all 
 students according to computer science score.
 
-7- `STUDENT_SCORE()` – this function has been 
+7- **STUDENT_SCORE()** – this function has been 
 used for updating score of all students.
