@@ -14,7 +14,7 @@ int main() {
 
         for (attempt; attempt <= Max_Number_of_Attempts; attempt++) {
             print();
-            printf("Please enter the Admin password: ");
+            printf("Please enter password: ");
             scanf("%s",userpassword);
             fflush(stdin);
 
@@ -24,13 +24,13 @@ int main() {
             }
             else {
                 Number_of_attempts--;
-                printf("Invalid password \n\n");
-                printf("Number of attempts left  %d \n\n",Number_of_attempts );
+                printf("Invalid password Try again\n\n");
+                // printf("Number of attempts left  %d \n\n",Number_of_attempts );
 
             }
 
             if (Number_of_attempts == 0) {
-                printf("\nAccess denied\n");
+                printf("\nAccess is denied\n");
             }
         }
 
